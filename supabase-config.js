@@ -1,4 +1,4 @@
 window.PARTYBOX_SUPABASE = {
-  url: "",
-  publishableKey: ""
+  url: "https://ukvrltzwsjnfcdszmeaw.supabase.co/rest/v1/",
+  publishableKey: "sb_publishable_EZnETAl7bzOlaKeNZg27YA_lbTSAdWz"
 };
